@@ -1,5 +1,5 @@
 body{
-    background-color: #ebfaeb;
+    background-color: #99ffcc;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
 }
@@ -7,15 +7,17 @@ body{
 h1{
     background-color: #8e6c49;
     text-align: center;
+    margin: 50px;
 }
 
 h2{
     background-color: #8e6c49;
     text-align: center;
+    margin: 50px;
 }
 
 section{
-    background-color: #ebfaeb;
+    background-color: #99ffcc;
 
 }
 
